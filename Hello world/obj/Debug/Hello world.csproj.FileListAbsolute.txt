@@ -1,0 +1,32 @@
+c:\users\enterprise\documents\visual studio 2015\Projects\Hello world\Hello world\bin\Debug\App.xbf
+c:\users\enterprise\documents\visual studio 2015\Projects\Hello world\Hello world\bin\Debug\MainPage.xbf
+c:\users\enterprise\documents\visual studio 2015\Projects\Hello world\Hello world\bin\Debug\Hello world.xr.xml
+c:\users\enterprise\documents\visual studio 2015\Projects\Hello world\Hello world\bin\Debug\Hello world.exe
+c:\users\enterprise\documents\visual studio 2015\Projects\Hello world\Hello world\bin\Debug\Hello world.pdb
+c:\users\enterprise\documents\visual studio 2015\Projects\Hello world\Hello world\bin\Debug\resources.pri
+c:\users\enterprise\documents\visual studio 2015\Projects\Hello world\Hello world\bin\Debug\AppxManifest.xml
+c:\users\enterprise\documents\visual studio 2015\Projects\Hello world\Hello world\bin\Debug\Hello world.build.appxrecipe
+c:\users\enterprise\documents\visual studio 2015\Projects\Hello world\Hello world\obj\Debug\App.g.i.cs
+c:\users\enterprise\documents\visual studio 2015\Projects\Hello world\Hello world\obj\Debug\App.g.cs
+c:\users\enterprise\documents\visual studio 2015\Projects\Hello world\Hello world\obj\Debug\MainPage.g.i.cs
+c:\users\enterprise\documents\visual studio 2015\Projects\Hello world\Hello world\obj\Debug\MainPage.g.cs
+c:\users\enterprise\documents\visual studio 2015\Projects\Hello world\Hello world\obj\Debug\XamlTypeInfo.g.cs
+c:\users\enterprise\documents\visual studio 2015\Projects\Hello world\Hello world\obj\Debug\App.xaml
+c:\users\enterprise\documents\visual studio 2015\Projects\Hello world\Hello world\obj\Debug\MainPage.xaml
+c:\users\enterprise\documents\visual studio 2015\Projects\Hello world\Hello world\obj\Debug\App.xbf
+c:\users\enterprise\documents\visual studio 2015\Projects\Hello world\Hello world\obj\Debug\MainPage.xbf
+c:\users\enterprise\documents\visual studio 2015\Projects\Hello world\Hello world\obj\Debug\XamlSaveStateFile.xml
+c:\users\enterprise\documents\visual studio 2015\Projects\Hello world\Hello world\obj\Debug\Hello world.exe
+c:\users\enterprise\documents\visual studio 2015\Projects\Hello world\Hello world\obj\Debug\Hello world.pdb
+c:\users\enterprise\documents\visual studio 2015\Projects\Hello world\Hello world\obj\Debug\priconfig.xml
+c:\users\enterprise\documents\visual studio 2015\Projects\Hello world\Hello world\obj\Debug\priconfig.xml.intermediate
+c:\users\enterprise\documents\visual studio 2015\Projects\Hello world\Hello world\obj\Debug\layout.resfiles
+c:\users\enterprise\documents\visual studio 2015\Projects\Hello world\Hello world\obj\Debug\layout.resfiles.intermediate
+c:\users\enterprise\documents\visual studio 2015\Projects\Hello world\Hello world\obj\Debug\resources.resfiles
+c:\users\enterprise\documents\visual studio 2015\Projects\Hello world\Hello world\obj\Debug\resources.resfiles.intermediate
+c:\users\enterprise\documents\visual studio 2015\Projects\Hello world\Hello world\obj\Debug\pri.resfiles
+c:\users\enterprise\documents\visual studio 2015\Projects\Hello world\Hello world\obj\Debug\pri.resfiles.intermediate
+c:\users\enterprise\documents\visual studio 2015\Projects\Hello world\Hello world\obj\Debug\qualifiers.txt
+c:\users\enterprise\documents\visual studio 2015\Projects\Hello world\Hello world\obj\Debug\qualifiers.txt.intermediate
+c:\users\enterprise\documents\visual studio 2015\Projects\Hello world\Hello world\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\enterprise\documents\visual studio 2015\Projects\Hello world\Hello world\obj\Debug\ProjectArchitectures.txt
