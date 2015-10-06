@@ -1,1 +1,1 @@
-C:\Users\Enterprise\Documents\Visual Studio 2015\Projects\Hello world\Hello world\PlayWithBtn-WP.csproj;neutral
+E:\Windows Phone Developer\PlayWithBtn\Hello world\PlayWithBtn-WP.csproj;neutral

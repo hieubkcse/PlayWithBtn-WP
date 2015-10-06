@@ -30,3 +30,35 @@ C:\Users\Enterprise\documents\visual studio 2015\Projects\Hello world\Hello worl
 C:\Users\Enterprise\documents\visual studio 2015\Projects\Hello world\Hello world\obj\Debug\qualifiers.txt.intermediate
 C:\Users\Enterprise\documents\visual studio 2015\Projects\Hello world\Hello world\obj\Debug\MultipleQualifiersPerDimensionFound.txt
 C:\Users\Enterprise\documents\visual studio 2015\Projects\Hello world\Hello world\obj\Debug\ProjectArchitectures.txt
+E:\Windows Phone Developer\PlayWithBtn\Hello world\bin\Debug\App.xbf
+E:\Windows Phone Developer\PlayWithBtn\Hello world\bin\Debug\MainPage.xbf
+E:\Windows Phone Developer\PlayWithBtn\Hello world\bin\Debug\Hello world.xr.xml
+E:\Windows Phone Developer\PlayWithBtn\Hello world\bin\Debug\Hello world.exe
+E:\Windows Phone Developer\PlayWithBtn\Hello world\bin\Debug\Hello world.pdb
+E:\Windows Phone Developer\PlayWithBtn\Hello world\bin\Debug\resources.pri
+E:\Windows Phone Developer\PlayWithBtn\Hello world\bin\Debug\AppxManifest.xml
+E:\Windows Phone Developer\PlayWithBtn\Hello world\bin\Debug\PlayWithBtn-WP.build.appxrecipe
+E:\Windows Phone Developer\PlayWithBtn\Hello world\obj\Debug\App.g.i.cs
+E:\Windows Phone Developer\PlayWithBtn\Hello world\obj\Debug\App.g.cs
+E:\Windows Phone Developer\PlayWithBtn\Hello world\obj\Debug\MainPage.g.i.cs
+E:\Windows Phone Developer\PlayWithBtn\Hello world\obj\Debug\MainPage.g.cs
+E:\Windows Phone Developer\PlayWithBtn\Hello world\obj\Debug\XamlTypeInfo.g.cs
+E:\Windows Phone Developer\PlayWithBtn\Hello world\obj\Debug\App.xaml
+E:\Windows Phone Developer\PlayWithBtn\Hello world\obj\Debug\MainPage.xaml
+E:\Windows Phone Developer\PlayWithBtn\Hello world\obj\Debug\App.xbf
+E:\Windows Phone Developer\PlayWithBtn\Hello world\obj\Debug\MainPage.xbf
+E:\Windows Phone Developer\PlayWithBtn\Hello world\obj\Debug\XamlSaveStateFile.xml
+E:\Windows Phone Developer\PlayWithBtn\Hello world\obj\Debug\Hello world.exe
+E:\Windows Phone Developer\PlayWithBtn\Hello world\obj\Debug\Hello world.pdb
+E:\Windows Phone Developer\PlayWithBtn\Hello world\obj\Debug\priconfig.xml
+E:\Windows Phone Developer\PlayWithBtn\Hello world\obj\Debug\priconfig.xml.intermediate
+E:\Windows Phone Developer\PlayWithBtn\Hello world\obj\Debug\layout.resfiles
+E:\Windows Phone Developer\PlayWithBtn\Hello world\obj\Debug\layout.resfiles.intermediate
+E:\Windows Phone Developer\PlayWithBtn\Hello world\obj\Debug\resources.resfiles
+E:\Windows Phone Developer\PlayWithBtn\Hello world\obj\Debug\resources.resfiles.intermediate
+E:\Windows Phone Developer\PlayWithBtn\Hello world\obj\Debug\pri.resfiles
+E:\Windows Phone Developer\PlayWithBtn\Hello world\obj\Debug\pri.resfiles.intermediate
+E:\Windows Phone Developer\PlayWithBtn\Hello world\obj\Debug\qualifiers.txt
+E:\Windows Phone Developer\PlayWithBtn\Hello world\obj\Debug\qualifiers.txt.intermediate
+E:\Windows Phone Developer\PlayWithBtn\Hello world\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\Windows Phone Developer\PlayWithBtn\Hello world\obj\Debug\ProjectArchitectures.txt

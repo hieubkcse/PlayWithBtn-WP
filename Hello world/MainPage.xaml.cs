@@ -53,8 +53,6 @@ namespace Hello_world
             myButton.VerticalAlignment = VerticalAlignment.Top;
             myButton.Style = this.Resources["ButtonStyle1"] as Style;
           
-            
-                    
             myButton.Click += btnClickMe_Click;
             FirstLayout.Children.Add(myButton);
 
